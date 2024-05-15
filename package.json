@@ -1,0 +1,22 @@
+{
+  "name": "@moh-tayyab0342/oop-bank-project",
+  "version": "2.0.0",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Muhammad Tayyab",
+  "license": "MIT",
+  "description": "Object Oriented Programming with TypeScript MyBank Console App",
+  "dependencies": {
+    "inquirer": "^9.2.21"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
